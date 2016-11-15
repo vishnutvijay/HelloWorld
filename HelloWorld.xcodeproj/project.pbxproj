@@ -14,6 +14,7 @@
 		E37BB3B11DDB0BBF00DDBDBA /* HelloWorld.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E37BB3AF1DDB0BBF00DDBDBA /* HelloWorld.xcdatamodeld */; };
 		E37BB3B31DDB0BBF00DDBDBA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E37BB3B21DDB0BBF00DDBDBA /* Assets.xcassets */; };
 		E37BB3B61DDB0BBF00DDBDBA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E37BB3B41DDB0BBF00DDBDBA /* LaunchScreen.storyboard */; };
+		E37BB3BF1DDB1B9F00DDBDBA /* VTAlertControllerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E37BB3BE1DDB1B9F00DDBDBA /* VTAlertControllerViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,8 @@
 		E37BB3B21DDB0BBF00DDBDBA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E37BB3B51DDB0BBF00DDBDBA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E37BB3B71DDB0BBF00DDBDBA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E37BB3BD1DDB1B9F00DDBDBA /* VTAlertControllerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VTAlertControllerViewController.h; sourceTree = "<group>"; };
+		E37BB3BE1DDB1B9F00DDBDBA /* VTAlertControllerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VTAlertControllerViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +67,8 @@
 				E37BB3A71DDB0BBF00DDBDBA /* AppDelegate.m */,
 				E37BB3A91DDB0BBF00DDBDBA /* ViewController.h */,
 				E37BB3AA1DDB0BBF00DDBDBA /* ViewController.m */,
+				E37BB3BD1DDB1B9F00DDBDBA /* VTAlertControllerViewController.h */,
+				E37BB3BE1DDB1B9F00DDBDBA /* VTAlertControllerViewController.m */,
 				E37BB3AC1DDB0BBF00DDBDBA /* Main.storyboard */,
 				E37BB3B21DDB0BBF00DDBDBA /* Assets.xcassets */,
 				E37BB3B41DDB0BBF00DDBDBA /* LaunchScreen.storyboard */,
@@ -158,6 +163,7 @@
 				E37BB3A81DDB0BBF00DDBDBA /* AppDelegate.m in Sources */,
 				E37BB3A51DDB0BBF00DDBDBA /* main.m in Sources */,
 				E37BB3B11DDB0BBF00DDBDBA /* HelloWorld.xcdatamodeld in Sources */,
+				E37BB3BF1DDB1B9F00DDBDBA /* VTAlertControllerViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
